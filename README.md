@@ -1,23 +1,14 @@
-# Getting Started with Create React App
+#React Chat App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###Overview
+This is a one-way chat app. A user can add new users in this list. A popup opens up asking for user details. Any user can then send message and all previous msg will be visible. Msgs are stored in users local storage
 
-## Available Scripts
+###Technologies
+React JS is used along with hooks.
 
-In the project directory, you can run:
+###Mobile Responsive
+The design is made mobile responsive
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
