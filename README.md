@@ -3,7 +3,7 @@
 ### `Overview`
 This is a one-way chat app. A user can add new users in this list. A popup opens up asking for user details. Any user can then send message and all previous msg will be visible. Msgs are stored in users local storage
 
-###`Technologies`
+### `Technologies`
 React JS is used along with hooks.
 
 ### `Mobile Responsive`
